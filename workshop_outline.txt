@@ -1,0 +1,52 @@
+Workshop order
+
+- intro
+  - me, and them
+  - who has programmed?
+  - who has used the js object?
+  - who has used a lisp?
+  - everyone have a text editor and s4m installed?
+
+- the s4m object
+  - main file argument
+  - reset command
+  - inlets and outlets
+  - thread attribute
+
+- the s4m object
+  - basics of calling functions in Scheme
+  - post, and the console
+  - out
+  - log-repl, log-null
+  - random
+
+- getting code to s4m
+  - main file
+  - read message
+  - message
+  - string message
+  - network
+
+- Scheme variables
+  - defining and setting
+  - scheme types: ints, floats, symbols, strings, keywords
+  - lists
+  - concept of evalation and lists
+  - sending quoted vs non-quoted to the interpreter
+
+- Max I/O
+  - using Max messages as widgets
+  - sending messages to max objects
+  - tables and buffers
+
+- Scheme functions
+  - function definitions 
+  - lambda
+  - let
+  - if and cond
+  - delay
+  - closures
+  - the scheduling example
+
+- make a sequencer
+
